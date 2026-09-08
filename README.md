@@ -10,7 +10,7 @@ setWindowTitle!=="undefined"<br>
 par :<br>
 setWindowTitle=="undefined"<br>
 
-Pour lister les fichiers concernés par le problème, on utilise le script Bash : liste-jsdos.sh<br>
-Pour réparer les fichiers concernés par le problème, on utilise le script Bash : reparer-jsdos.sh<br>
+Pour lister les fichiers concernés par le problème, on utilise ce script Bash : liste-jsdos.sh<br>
+Pour réparer les fichiers concernés par le problème, on utilise ce script Bash : reparer-jsdos.sh<br>
 
 J'en ai informé l'auteur en 2021, mais aucun correctif n'a été apporté à ce jour.
