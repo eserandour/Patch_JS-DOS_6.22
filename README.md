@@ -12,3 +12,5 @@ setWindowTitle=="undefined"<br>
 
 Pour lister les fichiers concernés par le problème, on utilise : liste-jsdos.sh<br>
 Pour réparer les fichiers concernés par le problème, on utilise : reparer-jsdos.sh 
+
+J'en ai informé l'auteur mais il n'y a pas eu de correctif à ce jour.
