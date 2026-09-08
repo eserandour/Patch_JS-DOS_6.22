@@ -1,4 +1,4 @@
-# patch_js-dos_6.22
+# Patch_JS-DOS_6.22
 
 JS-DOS permet d'exécuter un programme DOS dans un navigateur Web de manière très simple. 
 Site officiel : https://js-dos.com.
